@@ -105,5 +105,5 @@ while gameon:
         if(win_check(board,p[3-n-1])):
             print(f'Player{3-n} wins!!!')
             win=True
-            break
+            break 
     gameon=replay()
