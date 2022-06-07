@@ -1,1 +1,1 @@
-Details sample
+Details sample 1
